@@ -1,8 +1,7 @@
 ### Olá ! Eu sou a Fernanda de Oliveira Silva 💜
 
 
-- 🔭 Em transição de carreira
-- 🌱 Atualmente estou estudando HTML, CSS e Javascript
+- 🔭 Engenheira de Dados Trainne
 - 😄 Pronouns: ela/dela
 
  <div>
